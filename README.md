@@ -12,7 +12,7 @@ my Plotly charts and all their interactive glory!
 
 # The Plotly Charts
 
-Here you can click and veiw the interactive charts I made!
+Here you can click and view the interactive charts I made!
 
 [Revenue By Seller with Hover Labels](https://brandy-landauer.github.io/Chocolate_sales_analysis_project/RevenueBySalesRep.html)
 
